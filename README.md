@@ -5,7 +5,8 @@
 - 熟悉常用的数据结构与算法
 - 熟悉 Unix/Linux 操作系统原理及常用工具、熟练使用 Shell 工具
 - 熟悉 TCP/IP 等网络协议、进程间通讯編程
-- 熟悉 Unix/Linux 下常用项目架构设计方法;熟悉 HTTP/GRPC 协议，并能够使用其开发后端服务
+- 熟悉 Unix/Linux 下常用项目架构设计方法
+- 熟悉 HTTP/RPC 协议，并能够使用其开发后端服务
 - 熟悉 MySQL、Redis、 MongoDB、Kafka 等常用存储系統，熟悉 MySQL 等数据库的使用以及 SQL 调优
 - 熟悉分布式系统理论，有分布式系统设计架构经验
 - 熟悉 Docker、Kubernetes、DDD 等微服务相关技术
