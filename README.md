@@ -11,10 +11,6 @@
 - 熟悉分布式系统理论，有分布式系统设计架构经验
 - 熟悉 Docker、Kubernetes、DDD 等微服务相关技术
 - 熟悉 DevOps 工作流、CI/CD
-- 阅读过 Kubernetes 源码，并将其底层原理运用到实际项目中
-
-
-
 ## 个人项目
 ### web 框架
 
