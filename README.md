@@ -5,7 +5,7 @@
 - 熟悉常用的数据结构与算法
 - 熟悉常用的设计模式及 GO 常见编程范式
 - 熟悉 Unix/Linux 操作系统原理及常用工具、熟练使用 Shell 工具
-- 熟悉 TCP/IP 等网络协议、进程间通讯編程
+- 熟悉 TCP/IP 等网络协议、进程间通讯编程
 - 熟悉 Unix/Linux 下常用项目架构设计方法
 - 熟悉 HTTP/RPC 协议，并能够使用其开发后端服务
 - 熟悉 MySQL、Redis、 MongoDB、Kafka 等常用存储系統，熟悉 MySQL 等数据库的使用以及 SQL 调优
